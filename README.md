@@ -1,5 +1,6 @@
-run with python3 acfpcf.py --lag 672 672 is changeable, 
+run with python3 acfpcf.py --lag 672 
 
+672 is changeable
 keep in mind its 15min data/intervals
 
 lag is how far back in time you want to look for correlations
